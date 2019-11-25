@@ -1,0 +1,26 @@
+_repo: Lapset-Kuvauksia-lapsille-lapsista_60723
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Finne, Jalmari
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '43291'
+    url: http://www.gutenberg.org/2009/agents/43291
+    wikipedia: https://fi.wikipedia.org/wiki/Jalmari_Finne
+description: ''
+gutenberg_issued: '2019-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60723'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Döbeln, Georg Carl von, 1758-1820 -- Juvenile fiction'
+- !lcsh 'Russo-Swedish War, 1808-1809 -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Lapset: Kuvauksia lapsille lapsista'
+url: http://www.gutenberg.org/ebooks/60723
